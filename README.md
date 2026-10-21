@@ -233,4 +233,4 @@ This repository serves as the official landing page for HTTPS Everywhere. The so
 **Get the most recent version of HTTPS Everywhere today!**
 
 ---
-**Last updated:** 2026-10-20 21:06:37 UTC
+**Last updated:** 2026-10-21 00:18:08 UTC
